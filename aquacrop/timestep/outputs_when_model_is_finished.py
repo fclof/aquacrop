@@ -61,6 +61,8 @@ def outputs_when_model_is_finished(
                 "EsPot",
                 "Tr",
                 "TrPot",
+                "Dr",
+                "TAW"
             ],
         )
 

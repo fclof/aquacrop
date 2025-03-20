@@ -492,6 +492,8 @@ def solution_single_time_step(
         EsPot,
         Tr,
         TrPot,
+        NewCond.depletion,
+        NewCond.taw
     ]
 
     # Crop growth
